@@ -1,1 +1,1 @@
-Projects is patched i will not fix it prob in any short time.
+Working in any painting program but designed and working best in MS paint.
